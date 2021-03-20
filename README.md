@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liamhartley
+- 👀 I’m interested in data driven decisions
+- 🌱 I’m currently working on building football betting reports [www.liamhartley.co.uk/football](www.liamhartley.co.uk/football)
+- 💞️ I’m looking to collaborate on content creation
+- 📫 How to reach me: [www.liamhartley.co.uk/about](www.liamhartley.co.uk/about)
