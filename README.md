@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Liam Hartley](www.liamhartley.co.uk/)
-- 👀 I’m interested in data driven decisions and data ethics
+- 👀 I’m interested in [data driven decisions](https://www.youtube.com/channel/UCO_ge4iFmbKay3HVYNd7dAQ) and data ethics
 - 🌱 I’m currently working on building [football betting reports](www.liamhartley.co.uk/football) and my [YouTube channel](https://www.youtube.com/channel/UCO_ge4iFmbKay3HVYNd7dAQ)
 - 💞️ I’m looking to collaborate on content creation
 - 📫 How to reach me: [www.liamhartley.co.uk/about](www.liamhartley.co.uk/about)
