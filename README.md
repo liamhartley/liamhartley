@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Liam Hartley](www.liamhartley.co.uk)
+- 👋 Hi, I’m Liam Hartley
 - 👀 I’m interested in [data driven decisions](https://www.youtube.com/channel/UCO_ge4iFmbKay3HVYNd7dAQ) and data ethics
 - 🌱 I’m currently working on building [football betting reports](www.liamhartley.co.uk/football) and my [YouTube channel](https://www.youtube.com/channel/UCO_ge4iFmbKay3HVYNd7dAQ)
 - 💞️ I’m looking to collaborate on content creation
