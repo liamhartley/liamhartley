@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Liam Hartley
-- 👀 I’m interested in [data driven decisions](https://www.youtube.com/channel/UCO_ge4iFmbKay3HVYNd7dAQ) and data ethics
-- 🌱 I’m currently working on building a [crypto trading algorithm](https://github.com/liamhartley/cryptotradingbot), [football betting reports](https://www.liamhartley.co.uk/football) and my [YouTube channel](https://www.youtube.com/channel/UCO_ge4iFmbKay3HVYNd7dAQ)
+- 👋 Hi, I’m [Liam Hartley](https://www.liamhartley.co.uk/)
+- 🌱 I’m currently working on building a [crypto trading algorithm](https://github.com/liamhartley/cryptotradingbot), [football betting reports](https://www.liamhartley.co.uk/football) and my [YouTube channel](https://www.youtube.com/channel/UC6NlcnUIj1jHhTO1MarsWpw)
 - 💞️ I’m looking to collaborate on content creation
 - 📫 [How to reach me](https://www.liamhartley.co.uk/about)
-- 💰 Dogecoin tips wallet: DS7JRhMmL9RdXruqz5ubDaR3R8SNtoUi6i
+- 💰 BTC tips wallet: 36icgLxqAfFTuuruU7v1GQmFpUHjKnzJa8
