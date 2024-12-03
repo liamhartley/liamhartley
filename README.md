@@ -1,4 +1,4 @@
 - 👋 Hi, I’m [Liam Hartley](https://www.liamhartley.co.uk/)!
-- 🌱 I’m currently working at [Systematic Sports](https://github.com/Systematic-Sports) and [EBM Software](https://ebmsoftware.com)
+- 🌱 I’m currently building [Systematic Sports](https://github.com/Systematic-Sports) 
 - 👀 Quantitative sports professionals, please reach out to me!
 - 📫 [How to reach me](https://www.liamhartley.co.uk/about)
